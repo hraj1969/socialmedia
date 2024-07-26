@@ -1,11 +1,12 @@
-package com.indusnet.ums.common;
+package com.indusnet.socialmedia.common;
 
 
 
 
 import org.springframework.http.HttpStatus;
 
-import com.indusnet.ums.common.CoreModel;
+import com.indusnet.socialmedia.common.CoreModel;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.indusnet.ums.util;
+package com.indusnet.socialmedia.util;
 
 import com.google.gson.*;
 import org.bson.types.ObjectId;

@@ -1,4 +1,4 @@
-package com.indusnet.ums.exception;
+package com.indusnet.socialmedia.exception;
 
 public class CustomNotFoundException extends RuntimeException{
     public CustomNotFoundException(String message) {

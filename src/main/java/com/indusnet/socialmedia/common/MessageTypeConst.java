@@ -1,4 +1,4 @@
-package com.indusnet.ums.common;
+package com.indusnet.socialmedia.common;
 
 import lombok.Getter;
 

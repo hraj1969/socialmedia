@@ -1,10 +1,10 @@
-package com.indusnet.ums.config;
+package com.indusnet.socialmedia.config;
 
-import com.indusnet.ums.common.MessageTypeConst;
-import com.indusnet.ums.exception.*;
-import com.indusnet.ums.common.LoggingResponseModel;
-import com.indusnet.ums.common.ResponseModel;
 import com.google.gson.Gson;
+import com.indusnet.socialmedia.common.LoggingResponseModel;
+import com.indusnet.socialmedia.common.MessageTypeConst;
+import com.indusnet.socialmedia.common.ResponseModel;
+import com.indusnet.socialmedia.exception.*;
 import com.mongodb.MongoQueryException;
 
 import jakarta.validation.ConstraintViolationException;

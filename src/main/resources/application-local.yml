@@ -1,8 +1,8 @@
 server:
-  port: 1200
+  port: 8080
+
 spring:
-    data:
-      mongodb:
-        uri: mongodb://localhost:27017/ums
-        database: ums
-        auto-index-creation: true
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/socialmedia
+      auto-index-creation: true
